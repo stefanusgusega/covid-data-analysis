@@ -1,6 +1,6 @@
-city,confirmed,elderly_population_ratio
-Nam-gu,4511,22.49
-Dalseong-gun,297,12.11
-Gwanak-gu,149,15.12
-Guro-gu,139,16.21
-Yongsan-gu,139,16.87
+complete_city,confirmed,elderly_population_ratio
+"Nam-gu, Daegu",4511,22.49
+"Dalseong-gun, Daegu",297,12.11
+"Gwanak-gu, Seoul",149,15.12
+"Guro-gu, Seoul",139,16.21
+"Yongsan-gu, Seoul",139,16.87
